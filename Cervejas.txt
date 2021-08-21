@@ -1,0 +1,13 @@
+0`AmericanLager`Bohemia`Aroma frutado. É produzida com malte 100% importado e lúpulo Saaz.`False
+1`AmericanLager`Budweiser`Mesma receita americana desde 1876.`False
+2`AmericanLager`Heineken`A história da Heineken começa em 1864 quando Gerard Adriaan Heineken comprou uma pequena cervejaria em Amsterdã.`False
+3`PaleAle`Eisenbahn`De origem inglesa,As Pale Ale são cervejas que tem uma quantidade maior de lúpulo de amargor na sua receita, isso a torna uma cerveja mais amarga.`False
+4`IPA`IPA`As IPAs, sigla para India Pale Ale, obtêm suas características em grande parte pelo lúpulo, em conjunto com os sabores herbais, cítricos, resinosos e amargo.`False
+5`Pilsen`Beck's`Também conhecida como Pilsner, as cervejas Pilsen são originárias da República Tcheca e pertencem à família das Lager.`False
+6`Stout`Caracu`Esta é uma cerveja escura originalmente da escola inglesa, que possuem aroma e sabor torrado, lembrando café.`False
+7`ViennaLager`Aura`Como o próprio nome já diz, o estilo Vienna foi criado em Viena, em 1840, e pertence à família Lager.`False
+8`Weiss`Weihenstephaner Hefe-Weiss`As cervejas de trigo são produzidas com um percentual de malte de trigo, o que dá à bebida uma cor clara, turbidez e uma espuma cremosa.`False
+9`Weiss`Erdinger`A Erdinger chama a si mesma de "a maior cervejaria de cervejas de trigo do mundo"`False
+10`Porter`Colorado`Estilo típico da escola britânica, são cervejas escuras e de sabor torrado. São cervejas de alta fermentação e com teor alcoólico moderado.`False
+11`Witbier`Hoegaarden`A Witbier é um estilo belga, nascido em 1445, sendo a Hoegaarden a primeira cerveja deste estilo no mundo.`False
+12`Tripel`Paulistânia`Também de origem belga, a cerveja de estilo Tripel costumam ser complexas e apresentam notas condimentadas bem suaves graças às suas leveduras.`False
