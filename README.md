@@ -4,4 +4,5 @@
 
 ### Criando um APP simples de cadastro de *cervejas* em .NET 🍺
 
-#### O projeto original consiste em cadastro de séries, foi feita uma adaptação para cadastrar cervejas além de umas poucas melhorias. <br /> Foi implementado mecanismo para gravar os dados em arquivo de texto para manter uma base de dados.
+- O projeto original consiste em cadastro de séries, foi feita uma adaptação para cadastrar cervejas além de umas poucas melhorias.
+- Foi implementado mecanismo para gravar os dados em arquivo de texto para manter uma base de dados.
