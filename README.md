@@ -1,8 +1,8 @@
 # Avanade CodeAnywhere .NET
 
-## Desenvolva projetos .NET com C# em conjunto com os melhores experts da Avanade para ampliar o seu conhecimento, criar um portfólio inovador e conquistar grandes oportunidades
+## Develop .NET projects with C# together with the best Avanade experts to expand your knowledge, create an innovative portfolio and capture great opportunities
 
-### Criando um APP simples de cadastro de *cervejas* em .NET 🍺
+### Creating a simple *beer* registration App in .NET 🍺
 
-- O projeto original consiste em cadastro de séries, foi feita uma adaptação para cadastrar cervejas além de umas poucas melhorias.
-- Foi implementado mecanismo para gravar os dados em arquivo de texto para manter uma base de dados.
+- The original project consists of registering series, an adaptation was made to register beers in addition to a few improvements.
+- A mechanism was implemented to record data in a text file to maintain a database.
